@@ -17,7 +17,6 @@ Economist turned Data Analyst passionate about transforming complex data into cl
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3793EF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=101010)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=101010)
 ### ⚙️ Machine Learning & Statistics
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
